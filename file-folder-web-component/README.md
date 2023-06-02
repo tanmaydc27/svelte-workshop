@@ -12,7 +12,9 @@ Web Component is hosted in https://strong-taffy-5cc53c.netlify.app/
 ##  Input
 
  Name of the file or folder
+ 
  Type i.e. whether file or folder 
+ 
  Level where you keep the file or folder i.e. root level or inside folder.
 
 ### Save Button
